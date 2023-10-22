@@ -14,7 +14,7 @@
 
 - **CENTRO AGRICOLA GANADERO**
   - Puesto: Inventario y TIC
-  - Breve descripción de tu experiencia y contribuciones en esta empresa.
+  - Optimicé los procesos relacionados al inventario y realicé, como parte de las TIC, revisión de errores en el sistema para corrección. Además, me encargué de la limpieza de equipo tecnológico, configuración de redes WiFi y configuración de impresoras de tickets y facturas.
 
 ## Habilidades
 

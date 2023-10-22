@@ -12,13 +12,9 @@
 
 ## Experiencia
 
-- [Nombre de la empresa 1](Enlace al perfil de la empresa en GitHub): Breve descripción de tu experiencia y contribuciones.
-- [Nombre de la empresa 2](Enlace al perfil de la empresa en GitHub): Breve descripción de tu experiencia y contribuciones.
-
-## Proyectos Destacados
-
-- [Nombre del proyecto 1](Enlace al repositorio en GitHub): Breve descripción del proyecto y tus contribuciones.
-- [Nombre del proyecto 2](Enlace al repositorio en GitHub): Breve descripción del proyecto y tus contribuciones.
+- **CENTRO AGRICOLA GANADERO**
+  - Puesto: Inventario y TIC
+  - Breve descripción de tu experiencia y contribuciones en esta empresa.
 
 ## Habilidades
 
